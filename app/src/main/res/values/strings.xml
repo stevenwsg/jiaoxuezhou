@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">教学周</string>
+    <string name="about">关于</string>
+    <string name="settings">设置</string>
+    <string name="about1">尊敬的老师，你好！
+        "\n"每学期设置一次，设置完成后，请忽更改
+        "\n"该软件会更改默认锁屏，请谨慎使用
+        "\n"如有建议，请联系QQ:1516961816
+        "\n"谨以此应用献给教导过我的老师们
+        "\n"By-wsg</string>
+    <string name="settings1">请输入第一教学周周一日期</string>
+    <string name="year">年：</string>
+    <string name="month">月：</string>
+    <string name="day">日：</string>
+    <string name="sure">确认</string>
+    <string name="unlock">点击解锁</string>
+    <string name="textview">TextView</string>
+    <string name="info">老师辛苦了</string>
+</resources>

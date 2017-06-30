@@ -1,0 +1,4 @@
+include ':app', ':myListView', ':myListView', ':myListView'
+include 'myListView'
+findProject(':myListView')?.name = '1'
+
